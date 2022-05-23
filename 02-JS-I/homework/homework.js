@@ -10,9 +10,10 @@ const nuevoNum = 9100;
 const nuevoBool = true;
 
 // Resuelve el siguiente problema matemático:
-const nuevaResta = true;
+const nuevaResta = false;
+
 // Resuelve el siguiente problema matemático:
-const nuevaMultiplicacion = true;
+const nuevaMultiplicacion = false;
 
 // Resuelve el siguiente problema matemático:
 const nuevoModulo = 21 % 5 === 1;
